@@ -29,9 +29,6 @@ nav {
 
 .background {
     padding-top: 100px;
-}
-
-.background {
     background: url("sauerkraut.png");
     background-size: cover;
     background-repeat: no-repeat;
